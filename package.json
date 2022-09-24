@@ -1,0 +1,12 @@
+{
+  "name": "framework-diy",
+  "version": "1.0.0",
+  "description": "What should a framework do:",
+  "main": "index.js",
+  "scripts": {
+    "create-project": "node index"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
